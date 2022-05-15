@@ -1,0 +1,34 @@
+35
+egaugnal evitisnes esac a si nohtyP
+new string: a case sensitive
+Python is object oriented language
+10
+Pythonisacasesensitivelanguage
+hey Subhash kumar here!
+MY SID is 2110802
+I am from metallurgical and meterials eng department and my cgpa is 7.3
+the ans of 1st que: 8
+the ans of  que 2nd: 58
+the ans of 3rd que: 50
+the ans of 4th que: 224 40
+the ans of 5th que: 14 2
+type your sentence
+
+my name is subhash kumar
+yes
+side_1st:
+
+50
+side_2nd:
+
+10
+side_3rd
+
+30
+False
+no
+
+enter first number50
+
+enter your second number10
+3	
