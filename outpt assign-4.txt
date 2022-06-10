@@ -1,0 +1,80 @@
+enter the marks
+
+80
+B
+enter the year:
+
+2015
+not a leap year
+
+Question 1 : 8 * 4 =56
+Your Ans Is Wrong. The Answer Is  32
+
+Question 2 : 9 * 2 =50
+Your Ans Is Wrong. The Answer Is  18
+
+Question 3 : 1 * 8 =8
+Your Ans Is Right
+
+Question 4 : 9 * 10 =90
+Your Ans Is Right
+
+Question 5 : 4 * 4 =16
+Your Ans Is Right
+
+Question 6 : 9 * 9 =81
+Your Ans Is Right
+
+Question 7 : 1 * 1 =20
+Your Ans Is Wrong. The Answer Is  1
+
+Question 8 : 5 * 7 =63
+Your Ans Is Wrong. The Answer Is  35
+
+Question 9 : 5 * 5 =25
+Your Ans Is Right
+
+Question 10 : 10 * 4 =40
+Your Ans Is Right
+177 candies are in the bowl
+
+runfile('C:/Users/subhash kumar/Desktop/assgn 4/assignment 4 input.py', wdir='C:/Users/subhash kumar/Desktop/assgn 4')
+enter the marks
+
+56
+C
+enter the year:
+
+2023
+not a leap year
+
+Question 1 : 8 * 4 =56
+Your Ans Is Wrong. The Answer Is  32
+
+Question 2 : 4 * 5 =20
+Your Ans Is Right
+
+Question 3 : 5 * 7 =35
+Your Ans Is Right
+
+Question 4 : 3 * 4 =12
+Your Ans Is Right
+
+Question 5 : 2 * 2 =4
+Your Ans Is Right
+
+Question 6 : 9 * 5 =45
+Your Ans Is Right
+
+Question 7 : 4 * 3 =12
+Your Ans Is Right
+
+Question 8 : 2 * 9 =56
+Your Ans Is Wrong. The Answer Is  18
+
+Question 9 : 8 * 10 =52
+Your Ans Is Wrong. The Answer Is  80
+
+Question 10 : 10 * 1 =10
+Your Ans Is Right
+177 candies are in the bowl
