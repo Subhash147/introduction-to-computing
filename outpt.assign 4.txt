@@ -1,0 +1,28 @@
+enter the marks
+
+80
+B
+enter the year:
+
+2015
+not a leap year
+
+Question 1 : 8 * 4 =56
+Your Ans Is Wrong. The Answer Is  32
+
+Question 2 : 9 * 2 =50
+Your Ans Is Wrong. The Answer Is  18
+
+Question 3 : 1 * 8 =8
+Your Ans Is Right
+
+Question 4 : 9 * 10 =90
+Your Ans Is Right
+
+Question 5 : 4 * 4 =16
+Your Ans Is Right
+
+Question 6 : 9 * 9 =81
+Your Ans Is Right
+
+Question 7 : 1 * 1 =20
