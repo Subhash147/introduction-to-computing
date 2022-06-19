@@ -1,0 +1,195 @@
+
+enter the string:my name is subhash kumar
+ramuk hsahbus si eman ym
+enter the lower no:10
+
+enter the upper no:20
+
+enter the no by which we devide:5
+10
+15
+20
+
+enter the first side:1
+
+enter the second side:2
+
+enter the third side:3
+traingle cant formed
+0.0
+
+*
+**
+***
+****
+*****
+****
+***
+**
+*
+
+enter the number for alphabets:5
+A
+AB
+ABC
+ABCD
+ABCDE
+
+enter the lower number:10
+
+enter the upper number:20
+prime numbers are 10
+prime numbers are 12
+prime numbers are 14
+prime numbers are 16
+prime numbers are 18
+prime numbers are 20
+number are  35
+number are  70
+number are  105
+number are  140
+number are  175
+number are  210
+number are  245
+number are  280
+number are  315
+number are  350
+number are  385
+number are  420
+number are  455
+number are  490
+
+Enter the 10 intergers (,)=1,2,3,4,5,6,7,8,9,
+
+1
+positive and odd
+8 appeared 1 times
+ appeared 1 times
+2 appeared 1 times
+7 appeared 1 times
+1 appeared 1 times
+4 appeared 1 times
+5 appeared 1 times
+9 appeared 1 times
+6 appeared 1 times
+3 appeared 1 times
+
+2
+i is a postive number and prime
+8 appeared 1 times
+ appeared 1 times
+2 appeared 1 times
+7 appeared 1 times
+1 appeared 1 times
+4 appeared 1 times
+5 appeared 1 times
+9 appeared 1 times
+6 appeared 1 times
+3 appeared 1 times
+
+3
+positive and odd
+8 appeared 1 times
+ appeared 1 times
+2 appeared 1 times
+7 appeared 1 times
+1 appeared 1 times
+4 appeared 1 times
+5 appeared 1 times
+9 appeared 1 times
+6 appeared 1 times
+3 appeared 1 times
+
+-7
+negative and odd
+8 appeared 1 times
+ appeared 1 times
+2 appeared 1 times
+7 appeared 1 times
+1 appeared 1 times
+4 appeared 1 times
+5 appeared 1 times
+9 appeared 1 times
+6 appeared 1 times
+3 appeared 1 times
+
+-8
+i is a negative and prime
+8 appeared 1 times
+ appeared 1 times
+2 appeared 1 times
+7 appeared 1 times
+1 appeared 1 times
+4 appeared 1 times
+5 appeared 1 times
+9 appeared 1 times
+6 appeared 1 times
+3 appeared 1 times
+
+4
+i is a postive number and prime
+8 appeared 1 times
+ appeared 1 times
+2 appeared 1 times
+7 appeared 1 times
+1 appeared 1 times
+4 appeared 1 times
+5 appeared 1 times
+9 appeared 1 times
+6 appeared 1 times
+3 appeared 1 times
+
+5
+positive and odd
+8 appeared 1 times
+ appeared 1 times
+2 appeared 1 times
+7 appeared 1 times
+1 appeared 1 times
+4 appeared 1 times
+5 appeared 1 times
+9 appeared 1 times
+6 appeared 1 times
+3 appeared 1 times
+
+6
+i is a postive number and prime
+8 appeared 1 times
+ appeared 1 times
+2 appeared 1 times
+7 appeared 1 times
+1 appeared 1 times
+4 appeared 1 times
+5 appeared 1 times
+9 appeared 1 times
+6 appeared 1 times
+3 appeared 1 times
+
+2
+i is a postive number and prime
+8 appeared 1 times
+ appeared 1 times
+2 appeared 1 times
+7 appeared 1 times
+1 appeared 1 times
+4 appeared 1 times
+5 appeared 1 times
+9 appeared 1 times
+6 appeared 1 times
+3 appeared 1 times
+
+1
+positive and odd
+8 appeared 1 times
+ appeared 1 times
+2 appeared 1 times
+7 appeared 1 times
+1 appeared 1 times
+4 appeared 1 times
+5 appeared 1 times
+9 appeared 1 times
+6 appeared 1 times
+3 appeared 1 times
+
+enter the list sep by comma(,):subhash,subhash,deepak,amish,amish
+{'subhash': 2, 'deepak': 1, 'amish': 2}
